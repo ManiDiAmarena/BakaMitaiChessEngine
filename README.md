@@ -14,7 +14,7 @@ Sono uno sviluppatore alle prime armi e questo progetto rappresenta uno dei miei
 
 Sebbene l'engine sia funzionante, **non è perfetto** e ci sono sicuramente molte aree che potrebbero essere ottimizzate o migliorate (sia in termini di forza di gioco che di pulizia del codice).
 
-**Lo sviluppo è avvenuto nell'arco di circa 3 settimane 📅, durante le quali sono state eseguite circa 100 partite di test 🧪 per verificarne il corretto funzionamento.**
+**Lo sviluppo è avvenuto nell'arco di circa 3 settimane 📅, durante le quali sono state eseguite circa 200 partite di test 🧪 per verificarne il corretto funzionamento e calcolarne l'elo, che si aggira intorno ai 2000.**
 
 **Vi invito calorosamente a scaricare l'engine, provarlo nelle vostre GUI preferite e testarlo!**
 
@@ -24,7 +24,7 @@ Sebbene l'engine sia funzionante, **non è perfetto** e ci sono sicuramente molt
 * Aprire una **Issue** per discutere idee o segnalare problemi.
 * Creare una **Pull Request** con le vostre modifiche e miglioramenti.
 
-Sono desideroso di imparare e rendere Baka Mitai un progetto migliore con l'aiuto di altri appassionati! Qualsiasi feedback o contributo è prezioso. 🙏
+Qualsiasi feedback o contributo è prezioso. 🙏
 
 ---
 
