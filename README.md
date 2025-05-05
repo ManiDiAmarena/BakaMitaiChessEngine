@@ -14,6 +14,8 @@ Sono uno sviluppatore alle prime armi e questo progetto rappresenta uno dei miei
 
 Sebbene l'engine sia funzionante, **non è perfetto** e ci sono sicuramente molte aree che potrebbero essere ottimizzate o migliorate (sia in termini di forza di gioco che di pulizia del codice).
 
+**Lo sviluppo iniziale è avvenuto nell'arco di circa 3 settimane 📅, durante le quali ho eseguito circa 100 partite di test 🧪 per verificarne il funzionamento di base.**
+
 **Vi invito calorosamente a scaricare l'engine, provarlo nelle vostre GUI preferite e testarlo!**
 
 **Accolgo con grande favore contributi dalla community!** Se avete suggerimenti, individuate bug, o volete proporre miglioramenti (come nuove tecniche di valutazione/ricerca, ottimizzazioni, refactoring), non esitate a:
