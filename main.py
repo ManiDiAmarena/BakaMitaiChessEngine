@@ -41,9 +41,9 @@ def run_with_profiling(fen_to_profile, depth_to_profile):
 if __name__ == "__main__":
 
     # Se vuoi eseguire il profiling, decommenta e modifica:
-    profile_fen = "rnbqkb1r/pp2pp1p/3p1np1/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 6" # Esempio
-    profile_depth = 5
-    run_with_profiling(profile_fen, profile_depth)
+    #profile_fen = "rnbqkb1r/pp2pp1p/3p1np1/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 6" # Esempio
+    #profile_depth = 5
+    #run_with_profiling(profile_fen, profile_depth)
 
     # Esecuzione normale con loop UCI:
     # Crea l'istanza dell'engine
