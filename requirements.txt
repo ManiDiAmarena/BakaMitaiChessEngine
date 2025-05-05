@@ -1,0 +1,5 @@
+# Usando PyPy
+pypy3 -m pip install -r requirements.txt
+
+# Usando Python standard
+# python -m pip install -r requirements.txt
