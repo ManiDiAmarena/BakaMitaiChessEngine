@@ -59,6 +59,7 @@ Qualsiasi feedback o contributo è prezioso. 🙏
 * **✔️ Funzione Perft:** Include una funzione per testare la correttezza della generazione delle mosse.
 * **🧪 Test SEE:** Include script per testare la funzione SEE.
 * **⏱️ Setup Profiling:** Predisposizione in `main.py` per analizzare le performance del codice.
+* **💻 Single Thread:** L'engine funziona in Single Thread
 
 ---
 
