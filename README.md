@@ -56,6 +56,7 @@ Qualsiasi feedback o contributo è prezioso. 🙏
     * Bonus/Malus specifici (coppia alfieri ♗, coppia cavalli, coppia torri, bonus tempo ⏱️).
 * **🔍 Static Exchange Evaluation (SEE):** Valuta la bontà di una sequenza di catture su una casa specifica prima di eseguire la ricerca completa.
 * **📖 Supporto Libro Aperture (Polyglot):** (Opzionale) Può utilizzare libri di apertura in formato Polyglot (`.bin`) se il file `book_.bin` è presente e la libreria `python-chess` è installata.
+    * Tutti i test sono stati eseguiti con il libro di apertura [Cerebellum 3 Merge](https://zipproth.de/Brainfish/download/)
 * **✔️ Funzione Perft:** Include una funzione per testare la correttezza della generazione delle mosse.
 * **🧪 Test SEE:** Include script per testare la funzione SEE.
 * **⏱️ Setup Profiling:** Predisposizione in `main.py` per analizzare le performance del codice.
